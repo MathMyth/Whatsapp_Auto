@@ -1,2 +1,3 @@
 # Whatsapp_Auto
 Whatsapp automation with python...
+This script will help you to automatically send whatsapp messages according to your need..
